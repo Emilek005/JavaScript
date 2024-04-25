@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    position: relative;
+    height: 100vh;
+    font-family: 'Open Sans' , sans-serif;
+    color: #fff;
+    background-color: rgb(65, 63, 54);
+    font-size: 50px;
+}
+
+
+.result {
+    margin-bottom: 2px;
+
+}
